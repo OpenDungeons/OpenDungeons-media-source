@@ -1,0 +1,8 @@
+import base_material from "general.material"
+
+material Dirt : base_material
+{
+    set_texture_alias diffuseMap Dirt_darkE.png
+    set_texture_alias specMap Dirt_spec4.png
+    set_texture_alias normalMap Dirt_dark_nor3.png
+}

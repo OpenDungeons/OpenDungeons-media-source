@@ -1,0 +1,38 @@
+This work was packaged for Ubuntu and Debian by:
+
+    Casper Kejlberg-Rasmussen <svenskmand@gmail.com> on Thu, 21 Jul 2011 16:43:33 +0200
+
+It was downloaded from:
+
+    http://opendungeons.sf.net
+
+Upstream Author(s) and Copyright:
+
+    Each line are in the format "forum username, author, e-mail", the list is sorted alphabetically.
+
+    Copyright (C) 2009-2011
+    Arcanis, ,
+    Bodsda, ,
+    Charlie, Charles Goodwin,
+    Danimal, ,
+    Keldaryth, ,
+    Skorpio, ,
+    StefanP.MUC, Stefan,
+    TheAncientGoat, ,
+    Venn, ,
+    andrewbuck, Andrew Buck, andrew.r.buck@gmail.com
+    oln, Øyvind Larsen Nygård, oyvind.l.nygard@gmail.com
+    poss, ,
+    riidom, ,
+    svenskmand, Casper Kejlberg-Rasmussen, svenskmand@gmail.com
+    xapantu, ,
+
+License:
+
+$FILELICENSE
+
+The Debian packaging is:
+
+    Copyright (C) 2011 Casper Kejlberg-Rasmussen <svenskmand@gmail.com>
+
+and is licensed under the GPL version 3, see "/usr/share/common-licenses/GPL-3".

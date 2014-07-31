@@ -1,0 +1,6 @@
+opendungeons usr/games
+OpenDungeons.bin usr/lib/games
+debian/opendungeons.desktop usr/share/applications
+debian/opendungeons.svg usr/share/icons/hicolor/scalable/apps
+debian/opendungeons.png usr/share/icons/hicolor/32x32/apps
+debian/opendungeons.xpm usr/share/pixmaps

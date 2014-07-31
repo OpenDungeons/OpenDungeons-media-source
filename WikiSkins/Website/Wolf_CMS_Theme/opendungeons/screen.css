@@ -1,0 +1,313 @@
+@font-face {
+  font-family: museum_bible_font;
+  src: url('MuseumBible.eot');
+  src: local(MuseumBible), url('MuseumBible.ttf') format('opentype');
+}
+
+html {overflow-y: scroll;}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,input,textarea,p,blockquote,th,td {
+  font-family: museum_bible_font;
+  margin:0;
+  padding:0;
+}
+table { border-collapse:collapse; border-spacing:0; }
+fieldset,img { border:0; }
+address,caption,cite,code,dfn,em,strong,th,var { font-style:normal; font-weight:normal; }
+ol,ul { list-style:none; }
+caption,th { text-align:left; }
+q:before,q:after { content:''; }
+abbr,acronym { border:0; }
+
+body {
+  background-image: url(images/RocksSmall.jpg);
+  font: 62.5% museum_bible_font;
+  text-align: center;
+}
+
+/* links  */
+a { text-decoration: none; }
+a:visited { color: #C18111; }
+a:link { color: #C9A112; }
+a:active { color: #BC3E10; }
+a:hover { color: #E0A33A; }
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #9E0C0C;
+  font-weight: bold;
+  text-shadow: 0 0 5px #000000, 1px 1px 2px #000000;
+  padding: 0px 0px 10px 0px;
+}
+h1 { font-size:2.8em; }
+h2 { font-size:2.4em; }
+h3 { font-size:2.0em; }
+h4 { font-size:1.6em; }
+h5 { font-size:1.2em; }
+h6 { font-size:0.8em; }
+
+/* horizontal row */
+hr {
+  color: #aaa;
+  height: 1px;
+  margin: 20px 10px 20px 0px;
+}
+
+/* strong em */
+strong { font-weight: bolder; }
+em { font-style: italic; }
+
+/* tables & forms */
+input, select, th, td {font-size:1.6em}
+
+/* classes */
+.error { color: red; }
+
+/* page structure & layout */
+#header {
+  background-image: url(images/TopBackground.png);
+  background-repeat: repeat-x;
+  width: 100%;
+  height: 185px;
+  margin: 0 auto;
+}
+#nav {
+  position: relative;
+  background-image: url(images/Menu.png);
+  background-repeat: repeat-x;
+  text-align: center;
+  width: 100%;
+  height: 57px;
+  font-size: 2.6em;
+  font-weight: bold;
+  z-index: 2;
+}
+#page {
+  position: relative;
+  background-image: url(images/PergamentDark.jpg);
+  color: #E0D5C9;
+  font-size: 1.9em;
+  line-height: 1.1em;
+  text-shadow: 2px 2px 1px #202020;
+  width: 80%;
+  margin: -7px auto 57px auto;
+  padding: 10px 20px 20px 20px;
+  text-align: left;
+  z-index: 1;
+}
+#page #leftborder {
+  position: absolute;
+  left: -45px;
+  top: 0;
+  background-image: url(images/Left.png);
+  background-repeat: repeat-y;
+  width: 55px;
+  height: 100%;
+}
+#page #rightborder {
+  position: absolute;
+  right: -45px;
+  top: 0;
+  background-image: url(images/Right.png);
+  background-repeat: repeat-y;
+  width: 55px;
+  height: 100%;
+}
+#page #bottomborder {
+  position: absolute;
+  left: 0;
+  bottom: -45px;
+  background-image: url(images/Bottom.png);
+  background-repeat: repeat-x;
+  width: 100%;
+  height: 55px;
+}
+#page #bottomborder #cornerleft {
+  position: absolute;
+  left: -45px;
+  bottom: 0px;
+  background-image: url(images/BottomLeft.png);
+  background-repeat: no-repeat;
+  width: 56px;
+  height: 56px;
+}
+#page #bottomborder #cornerright {
+  position: absolute;
+  right: -45px;
+  bottom: 0px;
+  background-image: url(images/BottomRight.png);
+  background-repeat: no-repeat;
+  width: 56px;
+  height: 56px;
+}
+#breadcrumb {
+  background: #87BCD8;
+  border-bottom: 2px solid #90C7E4;
+  color: #4C7897;
+  font-size: 1.92em;
+  height: 46px;
+  position: relative;
+}
+#info {
+  background: #76AAC9;
+  border-bottom: 3px solid #93CCEA;
+  color: #E4EEF4;
+  font-size: 1.5em;
+  line-height: 1.4em;
+  position: relative;
+  padding: 20px 230px 20px 30px;
+}
+#content {
+  float: left;
+  padding: 10px;
+  width: 70%;
+}
+#sidebar {
+  color: #6B6B6B;
+  float: right;
+  padding: 10px;
+  width: 190px;
+}
+
+/* navigation */
+#nav ul {
+  padding: 13px;
+}
+
+#nav li {
+  list-style: none;
+  display: inline;
+  padding: 15px;
+}
+
+#nav li a {
+  color: #c0c0c0;
+  text-shadow: 0px 1px 2px #000000;
+}
+#nav li a:hover,
+#nav li a.current {
+  color: #E8E8E8;
+  text-shadow: 0px 0px 3px #DDC049, 0px 1px 2px #000000;
+}
+
+/* breadcrumb */
+#breadcrumb a {
+  color: #4c7897;
+  text-decoration: none;
+}
+
+/* content */
+#content p {
+  line-height: 1.5em;
+  margin: 0 0 20px 0;
+}
+#content ol {
+  line-height: 1.8em;
+  margin: 0 30px 20px 50px;
+}
+#content ul {
+  line-height: 1.8em;
+  margin: 0 30px 20px 30px;
+}
+#content ul li {
+  line-height: 1.8em;
+  list-style: square;
+  padding-left: 2px;
+}
+
+/* secondary content */
+#sidebar p { margin: 0; }
+#sidebar ul {
+  margin: 7px 0 20px 20px;
+  color: #E0D5C9;
+}
+#sidebar ul li {
+  line-height: 18px;
+  list-style: square;
+}
+
+/* misc */
+a img { border: none; }
+acronym { cursor: help; }
+blockquote {
+  background: url(quote.gif) no-repeat 10px 0;
+  color: #76A83A;
+  border-left: 2px solid #76A83A;
+  line-height: 1.5em;
+  margin: 0 10px 20px 10px;
+  padding: 0 10px 0 10px;
+}
+.hide { display: none; }
+.show { display: inline; }
+
+pre, code {
+  font-family: monospace;
+  border: 1px dotted;
+  padding: 3px;
+}
+
+/* classes */
+
+.right, .left {
+  background: #fff;
+  border: 1px solid #e3e7e8;
+  float: left;
+  margin: .5em 12px 6px 0;
+  padding: 6px;
+}
+.right {
+  float: right;
+  margin: .5em 0  6px 12px;
+}
+.left {
+  float: left;
+  margin: .5em 12px 6px 0;
+}
+
+/* comment */
+.comment-form-body {
+  width: 450px;
+  margin-top: 6px;
+}
+/* captcha image placement */
+#comment-captcha {
+  vertical-align:middle;
+}
+
+/* footer */
+#footer {
+/*  margin-top: 50px;*/
+/*  padding: 10px; */
+  margin: 0px auto 0px auto;
+  font-size: 11px;
+  color: #FFF;
+  text-align: center;
+  background-image: url(images/Footer.png);
+  background-repeat: no-repeat;
+  width: 357px;
+}
+
+/* http://www.cssstickyfooter.com/ */
+
+html, body {height: 100%;}
+
+#wrapper {min-height: 100%;}
+
+#innerwrapper {overflow:auto;
+	padding-bottom: 57px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+	margin-top: -57px; /* negative value of footer height */
+	height: 57px;
+	clear:both;
+
+} 
+
+/*Opera Fix*/
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}

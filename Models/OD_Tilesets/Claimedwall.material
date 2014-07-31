@@ -1,0 +1,7 @@
+import base_material from "general.material"
+material Claimedwall : base_material
+{
+    set_texture_alias diffuseMap Claimedwall2B.png
+    set_texture_alias specMap Claimedwall2_spec3.png
+    set_texture_alias normalMap Claimedwall2_nor3.png
+}

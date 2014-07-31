@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Name=Open Dungeons
+Comment=A 3D RTS dungeon digging and fighting game
+Exec=opendungeons
+Icon=opendungeons
+Terminal=false
+Type=Application
+Categories=Game;

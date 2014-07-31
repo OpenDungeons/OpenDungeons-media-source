@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="248.11281"
+     inkscape:cy="727.6847"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3005"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="10px"
+       spacingy="10px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:16.03415489px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="180"
+       y="242.36218"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="180"
+         y="242.36218">    water (light blue)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="262.40485"
+         id="tspan2989">    lava (light or dark red)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="282.44757"
+         id="tspan2991">    neutral wall diggable (dark brown)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="302.49023"
+         id="tspan2993">    neutral wall non-diggable (dark grey)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="322.53296"
+         id="tspan2995">    unclaimed ground (light brown)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="342.57562"
+         id="tspan2997">    claimed ground (team colors)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="362.61835"
+         id="tspan2999">    claimed and hardened walls (team colors darkened)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="382.66101"
+         id="tspan3001">    rooms/traps (team colors lightened)</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="402.70374"
+         id="tspan3003">    creatures (somehow coupled to the team colors, but different from hardened walls and rooms/traps)</tspan></text>
+    <rect
+       style="fill:#0063ff;fill-opacity:1;stroke:none"
+       id="rect3009"
+       width="10"
+       height="10"
+       x="170"
+       y="232.36218" />
+    <rect
+       y="252.36218"
+       x="170"
+       height="10"
+       width="10"
+       id="rect3779"
+       style="fill:#ff3f00;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#793f00;fill-opacity:1;stroke:none"
+       id="rect3781"
+       width="10"
+       height="10"
+       x="170"
+       y="272.36218" />
+    <rect
+       y="292.36218"
+       x="170"
+       height="10"
+       width="10"
+       id="rect3783"
+       style="fill:#646464;fill-opacity:1;stroke:none" />
+    <rect
+       y="312.36218"
+       x="170"
+       height="10"
+       width="10"
+       id="rect3785"
+       style="fill:#c56700;fill-opacity:1;stroke:none" />
+    <rect
+       y="332.36218"
+       x="170"
+       height="10"
+       width="10"
+       id="rect3787"
+       style="fill:#793f00;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#793f00;fill-opacity:1;stroke:none"
+       id="rect3789"
+       width="10"
+       height="10"
+       x="170"
+       y="352.36218" />
+    <rect
+       y="372.36218"
+       x="170"
+       height="10"
+       width="10"
+       id="rect3791"
+       style="fill:#793f00;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#793f00;fill-opacity:1;stroke:none"
+       id="rect3793"
+       width="10"
+       height="10"
+       x="170"
+       y="392.36218" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3795"
+       sodipodi:cx="175"
+       sodipodi:cy="397.36218"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 180,397.36218 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="matrix(0.39285714,0,0,0.39285714,106.25,241.25561)" />
+  </g>
+</svg>

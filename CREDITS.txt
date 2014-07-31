@@ -1,0 +1,1136 @@
+Author's Credit file
+====================
+
+This file is listing each files present in this repository and it corresponding license.
+
+Latest update: 2014.07.30
+
+
+  File                                                                      License
+----------------------------------------------------------------------    -------------------------------
+
+Music
+Music/Pal Zoltan Illes - OpenDungeons - MAIN THEME 03 - end.flac
+Music/Pal Zoltan Illes - OpenDungeons - MAIN THEME 02 - loop.flac
+Music/Pal Zoltan Illes - OpenDungeons - MAIN THEME 01 - start.flac
+Music/Pal Zoltan Illes - OpenDungeons - maintheme.flac
+AlignmentSystem
+AlignmentSystem/alignmentsystemexp
+AlignmentSystem/alignmentsystemexp/TestAppearance.java
+AlignmentSystem/alignmentsystemexp/RoomTypeStrategy.java
+AlignmentSystem/alignmentsystemexp/Vector.java
+AlignmentSystem/alignmentsystemexp/KeldarythStatistics.java
+AlignmentSystem/alignmentsystemexp/KeldarythAppearance.java
+AlignmentSystem/alignmentsystemexp/Allies.java
+AlignmentSystem/alignmentsystemexp/Creature.java
+AlignmentSystem/alignmentsystemexp/Keeper.java
+AlignmentSystem/alignmentsystemexp/CreatureType.java
+AlignmentSystem/alignmentsystemexp/Room.java
+AlignmentSystem/alignmentsystemexp/StatisticsStrategy.java
+AlignmentSystem/alignmentsystemexp/Alignment.java
+AlignmentSystem/alignmentsystemexp/RoomType.java
+AlignmentSystem/alignmentsystemexp/AppearanceStrategy.java
+AlignmentSystem/alignmentsystemexp/Faction.java
+AlignmentSystem/alignmentsystemexp/Main.java
+AlignmentSystem/alignmentsystemexp/SvenskmandStatistics.java
+AlignmentSystem/alignmentsystemexp/Dimension.java
+AlignmentSystem/alignmentsystemexp/SvenskmandAppearance.java
+AlignmentSystem/alignmentsystemexp/SvenskmandRoomTypes.java
+AlignmentSystem/AlignmentSystem.ods
+Models
+Models/Mechanical miner
+Models/Mechanical miner/Mechanical miner.blend
+Models/Mechanical miner/Mechanical miner.png
+Models/Rock 1
+Models/Rock 1/Rock 1.blend
+Models/Wooden door
+Models/Wooden door/Wooden door.blend
+Models/Wooden door/Wooden door.png
+Models/Rock 2
+Models/Rock 2/Rock 2.blend
+Models/Lizardman
+Models/Lizardman/ButterflyAxe.png
+Models/Lizardman/Lizardman.blend
+Models/Lizardman/Lizardman_skin.png
+Models/Skeleton
+Models/Skeleton/Skeleton.blend
+Models/Dwarf3
+Models/Dwarf3/Dwarf_spec.png
+Models/Dwarf3/Dwarf_col.png
+Models/Dwarf3/textures
+Models/Dwarf3/textures/Dwarf_spec.png
+Models/Dwarf3/textures/Dwarf_col.png
+Models/Dwarf3/textures/Dwarf_nor.png
+Models/Dwarf3/Dwarf_nor.png
+Models/Dwarf3/Dwarf3.blend
+Models/Spider
+Models/Spider/Spider.tga
+Models/Spider/Spider.blend
+Models/Ghost Knight
+Models/Ghost Knight/Ghost Knight.blend
+Models/Traps
+Models/Traps/Spike trap
+Models/Traps/Spike trap/Spike-trapTexture.jpg
+Models/Traps/Spike trap/Spiketrap_spec.png
+Models/Traps/Spike trap/NormalMap.tga
+Models/Traps/Spike trap/Spike-trap.blend
+Models/Traps/Spike trap/Spiketrap_AO.png
+Models/Traps/Spike trap/Spike-trapTexture.psd
+Models/Bridge
+Models/Bridge/Bridge.blend
+Models/Bridge/Claimedwall3B_spec.png
+Models/Bridge/Claimedwall3B_nor.png
+Models/Bridge/Claimedwall3B.png
+Models/Troll
+Models/Troll/Troll2C.blend
+Models/Cavehornet
+Models/Cavehornet/Cavehornet_nor.png
+Models/Cavehornet/Cavehornet.blend
+Models/Cavehornet/Cavehornet_spec.png
+Models/Cavehornet/Cavehornet_col.png
+Models/GoldBag
+Models/GoldBag/GoldBag.blend
+Models/Tentacle
+Models/Tentacle/Tentacle.blend
+Models/Tentacle/Tentakel_diff_green.png
+Models/Tentacle/Tentakel_diff_yellow7.png
+Models/Tentacle/Tentakel_nor.png
+Models/Wizard
+Models/Wizard/Wizard_nor.png
+Models/Wizard/Wizard.blend
+Models/Wizard/Wizard.tga
+Models/Wizard/Staff.tga
+Models/Portal
+Models/Portal/Portal.blend
+Models/Portal/Portalvortex.png
+Models/Dwarf
+Models/Dwarf/Dwarf.blend
+Models/Gnome
+Models/Gnome/GnomeB.tga
+Models/Gnome/Gnome.blend
+Models/Keeperhand
+Models/Keeperhand/Keeperhand_spec.png
+Models/Keeperhand/Keeperhand_nor.PNG
+Models/Keeperhand/Env-blaugrünF.png
+Models/Keeperhand/Keeperhand.blend
+Models/Keeperhand/Keeperhand_colC.png
+Models/Keeperhand/Keeperhand_colD.png
+Models/Dragon
+Models/Dragon/DragonE.blend
+Models/Goblin
+Models/Goblin/Goblin.tga
+Models/Goblin/Goblin.blend
+Models/Stone door
+Models/Stone door/Stone door.blend
+Models/Bookshelf
+Models/Bookshelf/Bookshelf.blend
+Models/Construct_Worker
+Models/Construct_Worker/Construct_Worker.blend
+Models/Construct_Worker/Halo_1.png
+Models/Construct_Worker/Halo_2.png
+Models/Construct_Worker/Halo_3.png
+Models/Construct_Worker/Halo_4.png
+Models/Construct_Worker/Zahnrad.png
+Models/Construct_Worker/Con_Worker.png
+Models/Construct_Worker/Env_gold3_tqirjrz5.png
+Models/Kreatur
+Models/Kreatur/Kreatur.blend
+Models/OD_Tilesets
+Models/OD_Tilesets/Water_spec.png
+Models/OD_Tilesets/OD_Tilesets_export
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00001110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11111011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00000000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00001000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00100010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10101111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00001110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001000b.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00101011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001111a.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11100011c.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00000010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00001010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10101000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10001111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11101000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10001110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10100011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00000010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10101011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00001010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10111111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111000b.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111110d.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10000011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10001011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11100010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00101000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10000010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10001010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10111011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10000011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111110a.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001111c.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00000000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_0.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00001000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00100010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10101111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00000000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00001000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11101111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001000a.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10101111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111111.001.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11100011b.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111000d.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_0.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11101000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10100011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10001110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10101011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10111111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10000000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10001000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10100010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11100011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11101011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00100010b.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11111111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10100011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10101011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111000a.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111110c.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10000010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00101000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10001010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10111011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00001110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10111010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00101000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10000010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11111011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_000101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10110011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11101111.001.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001111b.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11100011d.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_00111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11101111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00000010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00001010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10100000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10101000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10001111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00001011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10101111.001.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11100011a.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111101.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11101111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111000c.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10000000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10001000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10100010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11100011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_10111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11101011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Water_11111111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10000011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10111000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_10001011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_00101110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11100010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10000000.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10100010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Claimed_11111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00100010a.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10101010.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11100011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111001.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00101111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11101011.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10111110.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_00111110b.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_11111111.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Tilesets_binary/Dirt_10001111d.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Dirt101.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Dirt102.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Dirt103.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Dirt104.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Gold52.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Rock52.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Claimed52.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Gold0.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Gold100.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Gold101.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Gold102.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Gold103.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Dirt52.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Gold104.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Rock0.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Claimed0.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Claimed100.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Rock100.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Claimed101.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Rock101.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Claimed102.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Rock102.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Claimed103.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Rock103.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Dirt100.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Claimed104.mesh
+Models/OD_Tilesets/OD_Tilesets_export/Small Test Tiles/Rock104.mesh
+Models/OD_Tilesets/Lava_spec.png
+Models/OD_Tilesets/Claimedwall2_spec3.png
+Models/OD_Tilesets/Claimed_nor2.png
+Models/OD_Tilesets/Gold.material
+Models/OD_Tilesets/Water_nor.png
+Models/OD_Tilesets/OD_Tilesets2.blend
+Models/OD_Tilesets/Dirt_spec4.png
+Models/OD_Tilesets/Lava_nor.png
+Models/OD_Tilesets/Lava_emit.png
+Models/OD_Tilesets/Claimedwall2_nor3.png
+Models/OD_Tilesets/Claimedwall2B.png
+Models/OD_Tilesets/ClaimedE.png
+Models/OD_Tilesets/Dirt_dark_nor3.png
+Models/OD_Tilesets/Dirt_darkE.png
+Models/OD_Tilesets/Claimed_spec.png
+Models/OD_Tilesets/Claimed.material
+Models/OD_Tilesets/Rock.material
+Models/OD_Tilesets/Rock_spec.png
+Models/OD_Tilesets/Dirt.material
+Models/OD_Tilesets/Rock_nor.png
+Models/OD_Tilesets/Gold_spec2.png
+Models/OD_Tilesets/OD_Tilesets_binary.blend
+Models/OD_Tilesets/Water.png
+Models/OD_Tilesets/Lava.png
+Models/OD_Tilesets/OD_Tilesets_Rocks_Gold.blend
+Models/OD_Tilesets/Gold.png
+Models/OD_Tilesets/Claimedwall.material
+Models/OD_Tilesets/Gold_nor6.png
+Models/OD_Tilesets/Rock_col.png
+Models/Pit_demon
+Models/Pit_demon/Pit_Demon.blend
+Models/Vault door
+Models/Vault door/Vault door.blend
+Models/Trees
+Models/Trees/Tree1.blend
+Models/Textures
+Models/Textures/Textures.blend
+Models/Orc
+Models/Orc/Sumwars export
+Models/Orc/Sumwars export/Orc.material
+Models/Orc/Sumwars export/Orc_col.png
+Models/Orc/Sumwars export/Orc.skeleton
+Models/Orc/Sumwars export/Orc.mesh
+Models/Orc/Orc.blend
+Models/Knight
+Models/Knight/Knight.blend
+Models/Adventurer-Militia_0
+Models/Adventurer-Militia_0/Militia-Texture.jpg
+Models/Adventurer-Militia_0/Militia-Adventurer-RIGGED.blend
+Models/Adventurer-Militia_0/Militia-Texture.psd
+Models/Adventurer-Militia_0/Militia-TextureE.png
+Models/Zombie
+Models/Zombie/Zombie.blend
+Models/Candle
+Models/Candle/Candle.blend
+Models/Bed
+Models/Bed/Bed.blend
+Models/Wyvern
+Models/Wyvern/Wyvern_red_nor.png
+Models/Wyvern/buvneurt_env5.png
+Models/Wyvern/Wyvern.blend
+Models/Wyvern/Wyvern.png
+Models/Goldnugget
+Models/Goldnugget/Gold_env2.png
+Models/Goldnugget/Goldnugget.blend
+Models/Goldnugget/Gold_nor.png
+Models/Forge
+Models/Forge/specularmap.png
+Models/Forge/aomap.png
+Models/Forge/preview.png
+Models/Forge/forge.blend
+Models/Forge/base_texture.xcf
+Models/Forge/normalmap.png
+Models/Forge/UV_layout.png
+Models/Forge/credits.txt
+Models/Forge/base_texture.png
+Models/Chicken
+Models/Chicken/Chicken.blend
+Models/DungeonTemple
+Models/DungeonTemple/DungeonTemple.blend
+Models/Dog
+Models/Dog/Dog.blend
+Models/Kobold
+Models/Kobold/Kobold.blend
+Models/Kobold/Kobold.blend1
+Models/Hand
+Models/Hand/Hand.blend
+Models/ForgeV2
+Models/ForgeV2/L1_diffuse.png
+Models/ForgeV2/L2_diffuse.png
+Models/ForgeV2/L3_diffuse.png
+Models/ForgeV2/L1_normal.png
+Models/ForgeV2/forge2.blend
+Models/ForgeV2/L2_normal.png
+Models/ForgeV2/L3_normal.png
+Models/GoldChest
+Models/GoldChest/GoldChest.blend
+Models/GoldChest/GoldChest.png
+Models/Weapons
+Models/Weapons/Weapons.blend
+Models/Layout
+Models/Layout/Layout.blend
+Models/Layout/Wall3.png
+Models/Layout/Wall5.png
+GUI
+GUI/GUI_Cut_Up.svg
+GUI/GUI.svg
+GUI/Icons.svg
+GUI/Map.svg
+GUI/Cursors.svg
+Mascot
+Mascot/Devil.svg
+Sound
+Sound/ClaimTile
+Sound/ClaimTile/ClaimTile.aup
+Sound/ClaimTile/Instrument
+Sound/ClaimTile/Instrument/UsedSoftware.txt
+Sound/ClaimTile/Instrument/Claim.xiz
+Sound/ClaimTile/ClaimTile_data
+Sound/ClaimTile/ClaimTile_data/e00
+Sound/ClaimTile/ClaimTile_data/e00/d00
+Sound/ClaimTile/ClaimTile_data/e00/d00/e00004ca.au
+Sound/ClaimTile/ClaimTile_data/e00/d00/e0000b25.au
+Sound/ClaimTile/ClaimTile_data/e00/d00/e0000428.au
+Sound/ClaimTile/ClaimTile_data/e00/d00/e0000af8.au
+Sound/ClaimTile/ClaimTile_data/e00/d00/e0000874.au
+Sound/Digging
+Sound/Digging/Digging_data
+Sound/Digging/Digging_data/e00
+Sound/Digging/Digging_data/e00/d00
+Sound/Digging/Digging_data/e00/d00/e0000135.au
+Sound/Digging/Digging_data/e00/d00/e0000c5b.au
+Sound/Digging/Digging_data/e00/d00/e0000705.au
+Sound/Digging/Digging_data/e00/d00/e0000922.au
+Sound/Digging/Digging_data/e00/d00/e0000fd4.au
+Sound/Digging/Digging_data/e00/d00/e0000266.au
+Sound/Digging/Digging_data/e00/d00/e00002ff.au
+Sound/Digging/Digging_data/e00/d00/e0000842.au
+Sound/Digging/Digging_data/e00/d00/e00007fd.au
+Sound/Digging/Digging_data/e00/d00/e0000f9d.au
+Sound/Digging/Digging_data/e00/d00/e00000a3.au
+Sound/Digging/Digging_data/e00/d00/e0000668.au
+Sound/Digging/Digging_data/e00/d00/e0000c60.au
+Sound/Digging/Digging_data/e00/d00/e0000bbe.au
+Sound/Digging/Digging_data/e00/d00/e000042e.au
+Sound/Digging/Digging_data/e00/d00/e000091e.au
+Sound/Digging/Digging_data/e00/d00/e00005a9.au
+Sound/Digging/Digging_data/e00/d00/e00005f6.au
+Sound/Digging/Digging_data/e00/d00/e00008f4.au
+Sound/Digging/Digging.aup
+Sound/RocksFalling
+Sound/RocksFalling/RocksFalling.aup
+Sound/RocksFalling/RocksFallingComposite.aup
+Sound/RocksFalling/RocksFalling_data
+Sound/RocksFalling/RocksFalling_data/e00
+Sound/RocksFalling/RocksFalling_data/e00/d00
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000a7b.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e00004ae.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000b3f.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000704.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000093.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000382.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000546.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000772.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000666.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000855.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000499.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e000007a.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e000015b.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e000043a.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000d41.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e00002a6.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000bdd.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000e41.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e00006e0.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e000042f.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000a85.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e00005d6.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e00009e1.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000ae0.au
+Sound/RocksFalling/RocksFalling_data/e00/d00/e0000ba3.au
+Sound/RocksFalling/RocksFallingComposite_data
+Sound/RocksFalling/RocksFallingComposite_data/e00
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000cb3.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000441.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000aa9.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000338.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000384.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000ed9.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000459.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000398.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000a33.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000afb.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000edb.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000e07.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000027d.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000c65.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00007c5.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000081f.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00002f8.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00007d9.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000ae0.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000070.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00001cd.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00003af.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000317.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000fe1.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000824.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000878.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000bfb.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000090b.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000006e.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000fcb.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000d35.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000d45.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000b47.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00004d9.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00006d7.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000ab3.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000241.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000352.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00000df.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000093.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000346.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000184.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00004df.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000194.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000396.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000689.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000f12.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000054a.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00001a9.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000d34.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000064b.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000e35.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00001c9.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00004e4.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000026f.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000cef.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00007e3.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000e29.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00009b5.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000230.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000ab2.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000321.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000650.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000d4e.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000923.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000719.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000486.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000749.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000caa.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000789.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000041c.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e000034b.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00001c8.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e00006a9.au
+Sound/RocksFalling/RocksFallingComposite_data/e00/d00/e0000132.au
+Sound/Sword
+Sound/Sword/SwordBlockComposit_data
+Sound/Sword/SwordBlockComposit_data/e00
+Sound/Sword/SwordBlockComposit_data/e00/d00
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000bc3.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000441.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000a6e.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000ce4.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000663.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000395.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000755.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000d7f.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000891.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000b03.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000c20.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e000050f.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000dec.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000220.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e00009f5.au
+Sound/Sword/SwordBlockComposit_data/e00/d00/e0000bb1.au
+Sound/Sword/SwordBlock_data
+Sound/Sword/SwordBlock_data/e00
+Sound/Sword/SwordBlock_data/e00/d00
+Sound/Sword/SwordBlock_data/e00/d00/e0000601.au
+Sound/Sword/SwordBlock_data/e00/d00/e0000074.au
+Sound/Sword/SwordBlock_data/e00/d00/e0000263.au
+Sound/Sword/SwordBlock_data/e00/d00/e0000e0f.au
+Sound/Sword/SwordBlock_data/e00/d00/e00002c7.au
+Sound/Sword/SwordBlock_data/e00/d00/e00009a7.au
+Sound/Sword/SwordBlock_data/e00/d00/e00000e0.au
+Sound/Sword/SwordBlock_data/e00/d00/e00002ac.au
+Sound/Sword/SwordDrawComposit_data
+Sound/Sword/SwordDrawComposit_data/e00
+Sound/Sword/SwordDrawComposit_data/e00/d00
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000207.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000631.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000fd2.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000d5d.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000ad9.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000af7.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00008cd.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000f8b.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000269.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000de8.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00003c1.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000e03.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00002d4.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000c25.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000f22.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000d44.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000c09.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000aff.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00001c9.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00009e1.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00006f4.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000089d.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000151.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000143.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000361.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000ad6.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000f1e.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000e3d.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000e1f.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000355.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000616.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00007bd.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000761.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000527.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00009fb.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000e8d.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000f9c.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000587.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000488.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000949.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000023a.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000002e.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000012d.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000013d.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000a34.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000bbd.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000006c.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000a44.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000e04.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00004a5.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000009c.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000a74.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00006b5.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000035f.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e0000c48.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00006e5.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e00008d5.au
+Sound/Sword/SwordDrawComposit_data/e00/d00/e000095f.au
+Sound/Sword/SwordBlockComposit.aup
+Sound/Sword/SwordBlock.aup
+Sound/Sword/SwordDrawComposit.aup
+ODWinInstallWiX
+ODWinInstallWiX/Bitmaps
+ODWinInstallWiX/Bitmaps/New.ico
+ODWinInstallWiX/Bitmaps/bannrbmp.png
+ODWinInstallWiX/Bitmaps/dlgbmp.bmp
+ODWinInstallWiX/Bitmaps/dlgbmp.svg
+ODWinInstallWiX/Bitmaps/info.ico
+ODWinInstallWiX/Bitmaps/dlgbmp.png
+ODWinInstallWiX/Bitmaps/bannrbmp.bmp
+ODWinInstallWiX/Bitmaps/Up.ico
+ODWinInstallWiX/Bitmaps/bannrbmp.svg
+ODWinInstallWiX/Bitmaps/exclamic.ico
+ODWinInstallWiX/OpenDungeons.wxs
+ODWinInstallWiX/sed.vbs
+ODWinInstallWiX/ODBuild.bat
+ODWinInstallWiX/OpenDungeonsFragment.wxs
+ODWinInstallWiX/OD-Logo.ico
+ODWinInstallWiX/ReadMe.txt
+ODWinInstallWiX/License.rtf
+Logo
+Logo/OpenDungeons-Logo.svg
+Logo/OpenDungeons-BannerLogo.svg
+ConceptArt
+ConceptArt/Ghoul2.xcf
+ConceptArt/ConstructScout.xcf
+ConceptArt/ConstructSeahorse.png
+ConceptArt/WorldMap.svg
+ConceptArt/ConsAdvWorker.xcf
+ConceptArt/ConstructIdeas.xcf
+ConceptArt/DungeonHearth.xcf
+ConceptArt/Ghoul.xcf
+ConceptArt/MoodPictures
+ConceptArt/MoodPictures/Notice.txt
+ConceptArt/MoodPictures/Undead
+ConceptArt/MoodPictures/Undead/Ghoul-2_Small.jpg
+ConceptArt/MoodPictures/Undead/Lich-2_Small.jpg
+ConceptArt/MoodPictures/Undead/Revenant-1_Small.jpg
+ConceptArt/MoodPictures/Undead/Ghoul-1.jpg
+ConceptArt/MoodPictures/Undead/Ghoul-2.jpg
+ConceptArt/MoodPictures/Undead/Lich-1.jpg
+ConceptArt/MoodPictures/Undead/SkeletonKnight-3.gif
+ConceptArt/MoodPictures/Undead/Ghoul-3.jpg
+ConceptArt/MoodPictures/Undead/Lich-2.jpg
+ConceptArt/MoodPictures/Undead/SkeletonKnight-1_Small.jpg
+ConceptArt/MoodPictures/Undead/Ghoul-4.jpg
+ConceptArt/MoodPictures/Undead/Lich-3.jpg
+ConceptArt/MoodPictures/Undead/GhostKnight-2_Small.jpg
+ConceptArt/MoodPictures/Undead/Revenant-1.jpg
+ConceptArt/MoodPictures/Undead/Revenant-2.jpg
+ConceptArt/MoodPictures/Undead/Wraith-1_Small.jpg
+ConceptArt/MoodPictures/Undead/Abomination-1_Small.jpg
+ConceptArt/MoodPictures/Undead/GhostKnight-1.jpg
+ConceptArt/MoodPictures/Undead/SkeletonKnight-1.jpg
+ConceptArt/MoodPictures/Undead/GhostKnight-2.jpg
+ConceptArt/MoodPictures/Undead/SkeletonKnight-2.jpg
+ConceptArt/MoodPictures/Undead/Wraith-1.jpg
+ConceptArt/MoodPictures/Undead/Wraith-2.jpg
+ConceptArt/MoodPictures/Undead/Abomination-1.jpg
+ConceptArt/MoodPictures/Undead/Wraith-3.jpg
+materials_unused
+materials_unused/textures
+materials_unused/textures/OrcTeam5.png
+materials_unused/textures/Examples.program
+materials_unused/textures/Orc.png
+materials_unused/textures/OrcNor5.png
+materials_unused/textures/OrcTeam.png
+Font
+Font/OpenDungeonsFont.svg
+Font/SmallLettersSketch.svg
+models_unused
+models_unused/Temple.mesh
+models_unused/Temple3spikes.mesh
+models_unused/Orc_old.blend
+models_unused/Temple.skeleton
+models_unused/Temple_bent.mesh
+MindMaps
+MindMaps/Constructs.mm
+MindMaps/OpenDungeons.mm
+ODLinuxBuildScripts
+ODLinuxBuildScripts/changelog.precise
+ODLinuxBuildScripts/debian
+ODLinuxBuildScripts/debian/control
+ODLinuxBuildScripts/debian/source
+ODLinuxBuildScripts/debian/source/format
+ODLinuxBuildScripts/debian/opendungeons.svg
+ODLinuxBuildScripts/debian/compat
+ODLinuxBuildScripts/debian/menu
+ODLinuxBuildScripts/debian/copyright
+ODLinuxBuildScripts/debian/opendungeons.6
+ODLinuxBuildScripts/debian/opendungeons.install
+ODLinuxBuildScripts/debian/rules
+ODLinuxBuildScripts/debian/opendungeons.desktop
+ODLinuxBuildScripts/ODDebianFolder.sh
+ODLinuxBuildScripts/ODBuild.sh
+ODLinuxBuildScripts/ReadMe.txt
+ODLinuxBuildScripts/ODTarballMaker.sh
+sounds
+sounds/Ambient
+sounds/Ambient/Ambient1C.flac
+sounds/ClaimTile
+sounds/ClaimTile/Claim06.flac
+sounds/ClaimTile/Claim07.flac
+sounds/ClaimTile/Claim08.flac
+sounds/ClaimTile/Claim01.flac
+sounds/ClaimTile/Claim02.flac
+sounds/ClaimTile/Claim03.flac
+sounds/ClaimTile/Claim04.flac
+sounds/ClaimTile/Claim05.flac
+sounds/Click
+sounds/Click/click.flac
+sounds/Digging
+sounds/Digging/Digging03.flac
+sounds/Digging/Digging12.flac
+sounds/Digging/Digging04.flac
+sounds/Digging/Digging13.flac
+sounds/Digging/Digging05.flac
+sounds/Digging/Digging14.flac
+sounds/Digging/Digging06.flac
+sounds/Digging/Digging15.flac
+sounds/Digging/Digging07.flac
+sounds/Digging/Digging16.flac
+sounds/Digging/Digging17.flac
+sounds/Digging/Digging08.flac
+sounds/Digging/Digging18.flac
+sounds/Digging/Digging09.flac
+sounds/Digging/Digging01.flac
+sounds/Digging/Digging10.flac
+sounds/Digging/Digging11.flac
+sounds/Digging/Digging02.flac
+sounds/RoomBuild
+sounds/RoomBuild/bump.flac
+sounds/RocksFalling
+sounds/RocksFalling/RocksFalling01.flac
+sounds/RocksFalling/RocksFalling02.flac
+sounds/RocksFalling/RocksFalling03.flac
+sounds/RocksFalling/RocksFalling04.flac
+sounds/RocksFalling/RocksFalling05.flac
+sounds/RocksFalling/RocksFalling06.flac
+sounds/RocksFalling/RocksFalling07.flac
+sounds/Sword
+sounds/Sword/SwordBlock02.flac
+sounds/Sword/SwordBlock03.flac
+sounds/Sword/SwordBlock04.flac
+sounds/Sword/SwordBlock05.flac
+sounds/Sword/SwordBlock06.flac
+sounds/Sword/SwordBlock07.flac
+sounds/Sword/SwordBlock01.flac
+WikiSkins
+WikiSkins/PergamentDark.tgr
+WikiSkins/CornerDeco.svg
+WikiSkins/Dark
+WikiSkins/Dark/WatchTab.png
+WikiSkins/Dark/MoveTab.png
+WikiSkins/Dark/CornerDeco.svg
+WikiSkins/Dark/Footer.png
+WikiSkins/Dark/UnwatchTab.png
+WikiSkins/Dark/TopBorder.png
+WikiSkins/Dark/TextColors.txt
+WikiSkins/Dark/MyTalk.png
+WikiSkins/Dark/BottomBorder.png
+WikiSkins/Dark/Decoration.svg
+WikiSkins/Dark/PageTab.png
+WikiSkins/Dark/SpecialPageTab.png
+WikiSkins/Dark/Menu.png
+WikiSkins/Dark/MyPreferences.png
+WikiSkins/Dark/MyWatchlist.png
+WikiSkins/Dark/MyContributions.png
+WikiSkins/Dark/DiscussionTab.png
+WikiSkins/Dark/Borders.svg
+WikiSkins/Dark/EditTab.png
+WikiSkins/Dark/MyLogOut.png
+WikiSkins/Dark/MyUsername.png
+WikiSkins/Dark/TopLeftCorner.png
+WikiSkins/Dark/LeftBorder.png
+WikiSkins/Dark/HistoryTab.png
+WikiSkins/Dark/BottomLeftCorner.png
+WikiSkins/MockUps
+WikiSkins/MockUps/Shot.png
+WikiSkins/MockUps/Dark
+WikiSkins/MockUps/Dark/Shot.png
+WikiSkins/MockUps/Dark/WikiMockDark.svg
+WikiSkins/MockUps/OpenDungeons-LogoNewC.png
+WikiSkins/MockUps/Light
+WikiSkins/MockUps/Light/WikiMockLight.svg
+WikiSkins/PergamentLight.jpg
+WikiSkins/RocksSmall.jpg
+WikiSkins/PergamentLight.png
+WikiSkins/RocksSmall.png
+WikiSkins/Pergament2.tgr
+WikiSkins/Website
+WikiSkins/Website/Right.png
+WikiSkins/Website/Website.svg
+WikiSkins/Website/Footer.png
+WikiSkins/Website/BottomLeft.png
+WikiSkins/Website/TopGradient.png
+WikiSkins/Website/BottomRight.png
+WikiSkins/Website/Bottom.png
+WikiSkins/Website/Menu.png
+WikiSkins/Website/Wolf_CMS_Theme
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/MuseumBible.eot
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/MuseumBible.otf
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/print.css
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/MuseumBible.ttf
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/Right.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/Footer.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/BottomLeft.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/PergamentDark.jpg
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/BottomRight.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/TopBackground.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/Bottom.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/Menu.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/RocksSmall.jpg
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/header.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/Left.png
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/images/favicon.ico
+WikiSkins/Website/Wolf_CMS_Theme/opendungeons/screen.css
+WikiSkins/Website/Left.png
+WikiSkins/PergamentDark.jpg
+WikiSkins/Rocks.png
+WikiSkins/PergamentLight.tgr
+WikiSkins/Light
+WikiSkins/Light/WatchTab.png
+WikiSkins/Light/MoveTab.png
+WikiSkins/Light/Footer.png
+WikiSkins/Light/UnwatchTab.png
+WikiSkins/Light/TopBorder.png
+WikiSkins/Light/TextColors.txt
+WikiSkins/Light/MyTalk.png
+WikiSkins/Light/BottomBorder.png
+WikiSkins/Light/PageTab.png
+WikiSkins/Light/SpecialPageTab.png
+WikiSkins/Light/Menu.png
+WikiSkins/Light/MyPreferences.png
+WikiSkins/Light/MyContributions.png
+WikiSkins/Light/MyWatchlist.png
+WikiSkins/Light/DiscussionTab.png
+WikiSkins/Light/Borders.svg
+WikiSkins/Light/EditTab.png
+WikiSkins/Light/MyLogOut.png
+WikiSkins/Light/MyUsername.png
+WikiSkins/Light/TopLeftCorner.png
+WikiSkins/Light/LeftBorder.png
+WikiSkins/Light/HistoryTab.png
+WikiSkins/Light/BottomLeftCorner.png
+WikiSkins/PergamentDark.png
+WikiSkins/Rocks.tgr
+Full-size textures
+Full-size textures/Torch1_col.png
+Full-size textures/Stool_col.png
+Full-size textures/Shelf_col.png
+Full-size textures/Wizard.png
+Full-size textures/Table_spec.png
+Full-size textures/Dirt.png
+Full-size textures/Gnome.png
+Full-size textures/Water4.png
+Full-size textures/Quarters.png
+Full-size textures/Portalvortex.png
+Full-size textures/Goblin.png
+Full-size textures/Stool_spec.png
+Full-size textures/pine_green.png
+Full-size textures/Treasury.png
+Full-size textures/OrcTeam5.png
+Full-size textures/Chair_col.png
+Full-size textures/Table_col.png
+Full-size textures/Fire2_0.png
+Full-size textures/big_specular.tga
+Full-size textures/Fire2_1.png
+Full-size textures/Fire2_2.png
+Full-size textures/big_diffus.tga
+Full-size textures/Fire2_3.png
+Full-size textures/trainingpole-tex.png
+Full-size textures/Fire2_4.png
+Full-size textures/leatherdummy2-nm.png
+Full-size textures/Env_gold.png
+Full-size textures/big_normal.tga
+Full-size textures/Rockc.png
+Full-size textures/Claimed6Nor.png
+Full-size textures/Roundshield.tga
+Full-size textures/Cannon_col.png
+Full-size textures/Shelf_spec.png
+Full-size textures/GoldChest.png
+Full-size textures/Con_gear.png
+Full-size textures/Kreatur_nor2.png
+Full-size textures/Wizard_nor.png
+Full-size textures/Pit_Demon.png
+Full-size textures/White.png
+Full-size textures/mini_specular.tga
+Full-size textures/Tentakel_diff_yellow7.png
+Full-size textures/Dwarf1.png
+Full-size textures/Dwarf2.png
+Full-size textures/Spider.png
+Full-size textures/Claimed6c.png
+Full-size textures/GoldBag.png
+Full-size textures/Claimedwall3.png
+Full-size textures/Flat_n.png
+Full-size textures/Wyvern_red_col5.png
+Full-size textures/Grey.png
+Full-size textures/Forge_normalmap.png
+Full-size textures/Con_Worker.png
+Full-size textures/Troll2_spec2.png
+Full-size textures/Dragon.png
+Full-size textures/Forge_base_texture.png
+Full-size textures/Troll2_nor2.png
+Full-size textures/Longsword.png
+Full-size textures/Stool_nor.png
+Full-size textures/Tentakel_diff_green.png
+Full-size textures/Shelf_nor.png
+Full-size textures/KreaturE.png
+Full-size textures/kobold_skin6.png
+Full-size textures/Halo2_0.png
+Full-size textures/Knight.png
+Full-size textures/Halo2_1.png
+Full-size textures/Gold.png
+Full-size textures/Halo2_2.png
+Full-size textures/Halo2_3.png
+Full-size textures/Wyvern_red_normalmap.png
+Full-size textures/DungeonTemple_glow.png
+Full-size textures/Troll2_col3.png
+Full-size textures/Chair_spec.png
+Full-size textures/trainingpole-tex-nm.png
+Full-size textures/Chair_nor.png
+Full-size textures/Axe.tga
+Full-size textures/Table_nor.png
+Full-size textures/Lava_anim_0.png
+Full-size textures/Lava_anim_1.png
+Full-size textures/buvneurt_env5.png
+Full-size textures/Lava_anim_2.png
+Full-size textures/Lava_anim_3.png
+Full-size textures/Lava_anim_4.png
+Full-size textures/Black.png
+Full-size textures/leatherdummy2.png
+Full-size textures/Pit_Demon_nor.tga
+Full-size textures/mini_diffus.tga
+Full-size textures/shirtblack.png
+Full-size textures/Obsidian.png
+Full-size textures/DungeonTemple2.png
+Full-size textures/Staff.tga
+Full-size textures/Envmap_metal2.png
+Full-size textures/mini_normal.tga
+
+
+OLD file: (Below here is the old credit file content.)
+============
+
+Training pole: CC-BY-SA p0ss http://opengameart.org/content/wooden-training-pole
+Training dummy: CC-BY-SA p0ss http://opengameart.org/content/leather-training-dummy
+
+--
+
+Pal Zoltan Illes - OpenDungeons - MAIN THEME 01 - start.flac
+Pal Zoltan Illes - OpenDungeons - MAIN THEME 02 - loop.flac
+Pal Zoltan Illes - OpenDungeons - MAIN THEME 03 - end.flac
+Pal Zoltan Illes - OpenDungeons - maintheme.flac
+
+CC-BY-SA 3.0 unported- Pal Zoltan Illes - http://www.illespalzoltan.com
+
+--
+
+Reiner Flassig - Obsidian photo source - CC-by-sa/de 2.0 - http://de.wikipedia.org/w/index.php?title=Datei:Obsi.jpg&filetimestamp=20070905143430
+
+--
+
+Clint Bellanger "pfunked" - Bed - CC0 - http://opengameart.org/content/bed-low-poly
+
+--
+
+Surt - Knight, Kobold - CC0 - http://opengameart.org/forumtopic/cc0-scraps
+
+--
+
+riidom - Ghoul, Forge
+Andrew Buck
+Svenskmand
+Danimal - Adventurer, concept art - CC-BY-SA 3.0
+StefanP.MUC (GUI)
+Oln
+paul424
+Skorpio
+
+http://www.burningwell.org/ - Titus Tscharntke - photo sources for textures - Public Domain
+
+matthew.pablo - Theme of Com-Mecha (currently renamed - replacementmusic.ogg) - CC-BY 3.0 - http://opengameart.org/content/theme-of-com-mecha
+
+MODELS:
+
+Adventurer  Danimal     CC-BY-SA 3.0
+Axe Skorpio     CC-BY-SA 3.0, GPL 3.0
+Bed Clint Bellanger CC0
+big_wood_barrel     Nobiax/yughues      CC0
+Cannon      Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+Cannonball  Andrew Buck CC-BY-SA 3.0
+Cavehornet   Skorpio    CC-BY-SA 3.0, GPL 3.0
+Chair   Skorpio     CC-BY-SA 3.0, GPL 3.0
+Claimed Walls   Skorpio     CC-BY-SA 3.0, GPL 3.0
+Con_worker  Skorpio     CC-BY-SA 3.0, GPL 3.0
+Cre_vision_indicator    Andrew Buck CC-BY-SA 3.0
+DigSelector Andrew Buck CC-BY-SA 3.0
+Dirt Walls  Skorpio     CC-BY-SA 3.0, GPL 3.0
+Dojo    p0ss    CC-BY-SA 3.0
+DojoRockObject      p0ss    CC-BY-SA 3.0
+Dragon      Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+DungeonTemple       Skorpio     CC-BY-SA 3.0, GPL 3.0
+Dwarf1  Skorpio     CC-BY-SA 3.0, GPL 3.0
+Dwarf2  Skorpio     CC-BY-SA 3.0, GPL 3.0
+Dwarf3  thecubber, MrBeast, animated by Skorpio   CC-BY 3.0
+Fire    Skorpio     CC-BY-SA 3.0, GPL 3.0
+Forge   riidom
+Gnome   Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+Goblin  Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+Goldnugget Skorpio  CC-BY-SA 3.0, GPL 3.0
+Gold Walls  Skorpio CC-BY-SA 3.0, GPL 3.0
+Keeperhand  Skorpio CC-BY-SA 3.0, GPL 3.0
+Knight  surt    CC0
+Kobold  surt    CC0
+Kreatur Skorpio CC-BY-SA 3.0, GPL 3.0
+Lava    Skorpio CC-BY-SA 3.0, GPL 3.0
+Lizardman   Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+Longsword   Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+mini_wood_barrel    Nobiax/yughues      CC0
+Orc Skorpio CC-BY-SA 3.0, GPL 3.0
+Pit Demon   Skorpio CC-BY-SA 3.0, GPL 3.0
+Portal  Skorpio CC-BY-SA 3.0, GPL 3.0
+Quarters    Skorpio CC-BY-SA 3.0, GPL 3.0
+Rock Walls  Skorpio CC-BY-SA 3.0, GPL 3.0
+Round Shield    Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+Sabre   Andrew Buck CC-BY-SA 3.0
+Shield_small    Danimal     CC-BY-SA 3.0
+Shortsword  Danimal     CC-BY-SA 3.0
+Spider  Skorpio CC-BY-SA 3.0, GPL 3.0
+Staff   Skorpio CC-BY-SA 3.0, GPL 3.0
+Stool   Skorpio CC-BY-SA 3.0, GPL 3.0
+Table   Skorpio CC-BY-SA 3.0, GPL 3.0
+Tentacle1+2 Skorpio CC-BY-SA 3.0, GPL 3.0
+Torch   Skorpio CC-BY-SA 3.0, GPL 3.0
+Training Dummy      p0ss    CC-BY-SA 3.0
+Training Pole   p0ss    CC-BY-SA 3.0
+Treasury    Skorpio CC-BY-SA 3.0, GPL 3.0
+Troll   Skorpio CC-BY-SA 3.0, GPL 3.0
+Water   Skorpio CC-BY-SA 3.0, GPL 3.0
+Wizard  Skorpio CC-BY-SA 3.0, GPL 3.0
+Wyvern  Andrew Buck, Skorpio    CC-BY-SA 3.0, GPL 3.0
+
+SOUNDS:
+
+Svenskmand CC-BY-SA 3.0

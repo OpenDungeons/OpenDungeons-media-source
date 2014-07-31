@@ -1,0 +1,65 @@
+#!/usr/bin/make -f
+#export DH_VERBOSE=1
+
+build: build-arch build-indep
+build-arch: build-stamp
+build-indep: build-stamp
+build-stamp:
+	dh_testdir
+	echo '#!/bin/sh' > opendungeons
+	echo 'OPENDUNGEONS_DATA_PATH=/usr/share/opendungeons /usr/lib/games/OpenDungeons.bin "$$@"' >> opendungeons
+	convert -background none debian/opendungeons.svg -resize 32x32 debian/opendungeons.png
+	convert debian/opendungeons.png debian/opendungeons.xpm
+	cmake .
+	$(MAKE)
+	touch $@
+
+clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp configure-stamp
+	rm -f debian/opendungeons.png
+	rm -f debian/opendungeons.xpm
+	rm -f opendungeons
+	dh_clean 
+
+install: build
+	dh_testdir
+	dh_testroot
+	dh_prep
+	dh_installdirs
+	dh_install
+	#dh_install config /usr/share/opendungeons
+	dh_install gui /usr/share/opendungeons
+	dh_install lang /usr/share/opendungeons
+	dh_install levels /usr/share/opendungeons
+	dh_install levels_git /usr/share/opendungeons
+	dh_install materials /usr/share/opendungeons
+	dh_install models /usr/share/opendungeons
+	dh_install music /usr/share/opendungeons
+	dh_install sounds /usr/share/opendungeons
+	dh_install documentation /usr/share/doc/opendungeons
+	dh_install *.cfg /usr/share/opendungeons
+	
+binary-indep: build install
+binary-arch: build install
+	dh_testdir
+	dh_testroot
+	dh_installchangelogs 
+	dh_installdocs
+	dh_install
+	dh_installmenu
+	dh_installman debian/opendungeons.6
+	dh_icons
+	dh_link
+	dh_strip
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_shlibdeps
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary: binary-indep binary-arch
+.PHONY: build clean binary-indep binary-arch binary install

@@ -1,0 +1,7 @@
+import base_material from "general.material"
+material Gold : base_material
+{
+    set_texture_alias diffuseMap Gold.png
+    set_texture_alias specMap Gold_spec2.png
+    set_texture_alias normalMap Gold_nor6.png
+}

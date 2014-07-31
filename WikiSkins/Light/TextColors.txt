@@ -1,0 +1,9 @@
+--------------------------------------
+Colors of the text in the Wiki in RGBA
+--------------------------------------
+Normal text: 000000ff
+Mouse over text: ffcc00ff
+Visited hyperlink: 7c5f5fff
+Non-existing page hyperlink: ff5353ff
+Unvisited hyperlink: ff812cff
+Bullets: 000000ff

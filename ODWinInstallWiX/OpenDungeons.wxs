@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+<?include VersionFragment.wxs ?>
+   <Product Id='5354DA3B-3139-4353-B2AE-B041C619B5A4' Name='Open Dungeons' Language='1033' 
+            Version="$(var.VERSION)" Manufacturer='Open Dungeons Community' UpgradeCode='5354DA3B-3139-4353-B2AE-B041C619B5A4' >
+      <Package Description='Open Dungeons is an open source, real time strategy game sharing game elements with the Dungeon Keeper series and Evil Genius. Players build an underground dungeon which is inhabited by creatures. Players fight each other for control of the underground by indirectly commanding their creatures, directly casting spells in combat, and luring enemies into sinister traps.'
+               Comments='Comments about the current release, e.g. changelog.'
+               Manufacturer='Open Dungeons Community' InstallerVersion='200' Compressed='yes' />
+
+      <Icon Id='OD_Icon' SourceFile='OD-Logo.ico' />
+      <Property Id="ARPPRODUCTICON" Value="OD_Icon" />
+
+      <Media Id='1' Cabinet='product.cab' EmbedCab='yes'/>
+
+      <Directory Id='TARGETDIR' Name='SourceDir'>
+         <Directory Id='ProgramFilesFolder' Name='PFiles'>
+            <Directory Id='INSTALLDIR' Name='Open Dungeons'>
+               <Component Id='Misc_Files' Guid='5354DA3B-3139-4353-B2AE-B041C619B5A4'>
+                 <File Id='License_File' Name='License.rtf' DiskId='1' Source='License.rtf' />
+                 <File Id='OD_Icon_File' Name='OD-Logo.ico' DiskId='1' Source='OD-Logo.ico' />
+               </Component>
+            </Directory>
+         </Directory>
+         <Directory Id="DesktopFolder" Name="Desktop" />
+      </Directory>
+     
+      <DirectoryRef Id="DesktopFolder">
+          <Component Id="ApplicationShortcut" Guid="6D395805-13F1-49C6-B405-E7DD589FB4DF">
+              <Shortcut Id="ApplicationDesktopShortcut" 
+                        Name="Open Dungeons"
+                        Description="A RTS dungeon game"
+                        Target="[dir_Game_0]OpenDungeons.exe"
+                        WorkingDirectory="dir_Game_0"
+                        Icon="OD_Icon" />
+              <RegistryValue Root="HKCU" Key="Software\Microsoft\OpenDungeons" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+          </Component>
+      </DirectoryRef>
+
+      <WixVariable Id="WixUILicenseRtf" Value="License.rtf"/>
+      <WixVariable Id="WixUIBannerBmp" Overridable="yes" Value="Bitmaps\bannrbmp.bmp"/>
+      <WixVariable Id="WixUIDialogBmp" Overridable="yes" Value="Bitmaps\dlgbmp.bmp"/>
+
+
+      <Property Id="WIXUI_INSTALLDIR" Value="INSTALLDIR" />
+      <UIRef Id="WixUI_InstallDir" />
+
+      <Feature Id='MyFeature' Title='My 1st Feature' Level='1'>
+         <ComponentGroupRef Id='group_OD' />
+         <ComponentRef Id="ApplicationShortcut" />
+         <ComponentRef Id="Misc_Files" />
+      </Feature>
+   </Product>
+</Wix>

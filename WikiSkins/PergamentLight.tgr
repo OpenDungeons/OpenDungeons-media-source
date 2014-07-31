@@ -1,0 +1,44 @@
+Nodes 10
+673 -148
+engine.graphics.synthesis.texture.PatternPerlinNoise
+Color_Mapping 2 1.0 0.6969976 0.29105392 1.0 0.0 0.60508585 0.3216912 0.09957109 1.0 1.0 ScaleX 3.0 ScaleY 3.0 ValueScale 1.0 Persistence 0.75 StartBand 1 EndBand 10 Seed -1 Periodic true transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+773 -147
+engine.graphics.synthesis.texture.PatternPerlinNoise
+Color_Mapping 3 0.0 0.0 0.0 1.0 0.5072464 1.0 0.6985294 0.3125 1.0 0.531401 0.006127451 0.0 0.0 1.0 0.5603865 ScaleX 3.0 ScaleY 3.0 ValueScale 1.0 Persistence 0.75 StartBand 1 EndBand 10 Seed -1 Periodic true transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+870 -145
+engine.graphics.synthesis.texture.PatternPerlinNoise
+Color_Mapping 3 0.0 0.0 0.0 1.0 0.4589372 0.30637255 0.12867647 0.018382354 1.0 0.4830918 0.006127451 0.0 0.0 1.0 0.5072464 ScaleX 3.0 ScaleY 3.0 ValueScale 1.0 Persistence 0.75 StartBand 1 EndBand 10 Seed -1 Periodic true transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+841 -9
+engine.graphics.synthesis.texture.FilterBlend
+Layer_Func. 3 Opacity 0.25 Inv._Alpha false transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+712 -7
+engine.graphics.synthesis.texture.FilterBlend
+Layer_Func. 4 Opacity 0.125 Inv._Alpha false transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+778 116
+engine.graphics.synthesis.texture.FilterBlend
+Layer_Func. 0 Opacity 0.5 Inv._Alpha false transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+900 116
+engine.graphics.synthesis.texture.PatternCellular
+Color_Mapping 2 0.9254902 0.80784315 0.44705883 1.0 0.096618354 0.0 0.0 0.0 1.0 0.28502417 Cell_Type 0 Distance_ 3 PointGen 0 Seed 2 Intensity 1.5 Jitter 0.25 NumPoints 200 RandColor false Periodic true transformation 3.923141 0.7803613 0.0 -0.7803613 3.923141 0.0 0.0 0.0 1.0 endparameters
+841 246
+engine.graphics.synthesis.texture.FilterBlend
+Layer_Func. 3 Opacity 0.03125 Inv._Alpha false transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+660 122
+engine.graphics.synthesis.texture.FilterColorize
+Gray_to_Color_Mapping 2 0.0 0.0 0.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+722 348
+engine.graphics.synthesis.texture.FilterEmboss
+Strength 0.75 Angle 45.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+11
+2 3 1
+0 3 0
+0 4 0
+1 4 1
+4 5 0
+3 5 1
+5 7 0
+6 7 1
+0 8 0
+7 9 0
+8 9 1
+glpreview 9 -1 -1 -1 Object 0 Spec._Power 20.0 POM_Strength 0.75 Ambient 0.5 TexScale_U 1 TexScale_V 1 CamRotX 71.0 CamRotY 84.0 CamDist 2.5 endglpreview

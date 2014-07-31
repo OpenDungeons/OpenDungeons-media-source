@@ -1,0 +1,6 @@
+?package(opendungeons):needs="X11" \
+  section="Games" \
+  icon="/usr/share/pixmaps/opendungeons.xpm" \
+  title="Open Dungeons" \
+  longtitle="A 3D RTS dungeon digging and fighting game" \
+  command="/usr/games/opendungeons"

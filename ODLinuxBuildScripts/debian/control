@@ -1,0 +1,19 @@
+Source: opendungeons
+Section: games
+Priority: optional
+Maintainer: Casper Kejlberg-Rasmussen <svenskmand@gmail.com>
+Build-Depends: debhelper, pkg-config, cmake, libois-dev, libogre-1.7.4, libogre-1.7.4-dbg, libogre-dev, libcegui-mk2-0.7.5, libcegui-mk2-0.7.5-dbg, libcegui-mk2-dev, libfreeimage3, libfreeimage3-dbg, libsfml-dev, libopenal-dev, libzzip-0-13, imagemagick, librsvg2-bin
+Standards-Version: 3.9.3
+Homepage: http://opendungeons.sf.net
+#Vcs-Git: git://git.debian.org/collab-maint/opendungeons.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/opendungeons.git;a=summary
+
+Package: opendungeons
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libzzip-0-13, libfreeimage3
+Description: A RTS dungeon building and fightning game.
+ OpenDungeons is an open source, real time strategy game sharing game elements
+ with the Dungeon Keeper series and Evil Genius. Players build an underground
+ dungeon which is inhabited by creatures. Players fight each other for control
+ of the underground by indirectly commanding their creatures, directly casting
+ spells in combat, and luring enemies into sinister traps.

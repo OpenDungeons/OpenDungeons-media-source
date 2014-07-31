@@ -1,0 +1,49 @@
+Nodes 11
+763 -6
+engine.graphics.synthesis.texture.PatternCellular
+Color_Mapping 2 0.0 0.0 0.0 1.0 0.0 1.0 1.0 1.0 1.0 0.33816424 Cell_Type 4 Distance_ 0 PointGen 0 Seed 0 Intensity 0.25 Jitter 0.25 NumPoints 40 RandColor false Periodic true transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+548 -1
+engine.graphics.synthesis.texture.PatternPerlinNoise
+Color_Mapping 5 0.003921569 0.0 0.0 1.0 0.0 0.24313726 0.1882353 0.11764706 1.0 0.2415459 0.13333334 0.06666667 0.0 1.0 0.49758455 0.27058825 0.19607843 0.11372549 1.0 0.74396133 0.003921569 0.0 0.0 1.0 1.0 ScaleX 4.0 ScaleY 5.0 ValueScale 1.0 Persistence 0.75 StartBand 1 EndBand 8 Seed 22 Periodic true transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+637 266
+engine.graphics.synthesis.texture.FilterMask
+Invert false transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+647 136
+engine.graphics.synthesis.texture.FilterEmboss
+Strength 2.0 Angle 90.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+857 143
+engine.graphics.synthesis.texture.FilterNormalMap
+Strength 2.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+847 348
+engine.graphics.synthesis.texture.FilterEmboss
+Strength 3.0 Angle 45.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+658 -3
+engine.graphics.synthesis.texture.PatternPerlinNoise
+Color_Mapping 6 0.69411767 0.63529414 0.5647059 1.0 0.004830897 0.47058824 0.44705883 0.39607844 1.0 0.20772946 0.2968449 0.259844 0.18378042 1.0 0.37681162 0.009574142 0.009574142 0.009574142 1.0 0.64734304 0.32156864 0.28235295 0.22745098 1.0 0.82608694 0.43529412 0.39215687 0.36078432 1.0 1.0 ScaleX 4.0 ScaleY 5.0 ValueScale 1.0 Persistence 0.75 StartBand 1 EndBand 8 Seed 22 Periodic true transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+750 140
+engine.graphics.synthesis.texture.FilterColorize
+Gray_to_Color_Mapping 3 0.003921569 0.003921569 0.003921569 1.0 0.096618354 1.0 0.99607843 0.99607843 1.0 0.16425121 1.0 1.0 1.0 1.0 1.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+961 145
+engine.graphics.synthesis.texture.FilterColorize
+Gray_to_Color_Mapping 2 0.0 0.0 0.0 1.0 0.2173913 1.0 1.0 1.0 1.0 1.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+741 375
+engine.graphics.synthesis.texture.FilterColorize
+Gray_to_Color_Mapping 2 0.0 0.0 0.0 1.0 0.0 0.7882353 0.78431374 0.78431374 1.0 1.0 transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+695 501
+engine.graphics.synthesis.texture.FilterBlend
+Layer_Func. 1 Opacity 1.0 Inv._Alpha false transformation 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 endparameters
+13
+1 2 0
+3 2 1
+0 3 1
+2 5 0
+6 3 0
+0 7 0
+7 2 2
+0 4 0
+0 8 0
+8 5 1
+7 9 0
+9 10 1
+0 10 0
+glpreview 5 4 10 0 Object 0 Spec._Power 20.0 POM_Strength 1.0 Ambient 0.5 TexScale_U 1 TexScale_V 1 CamRotX 73.0 CamRotY 347.0 CamDist 2.5 endglpreview

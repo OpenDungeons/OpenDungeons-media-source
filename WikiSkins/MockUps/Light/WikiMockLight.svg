@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1440"
+   height="900"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   version="1.0"
+   sodipodi:docname="WikiMockLight.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Dark\Shot.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="display:inline">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 450 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1440 : 450 : 1"
+       inkscape:persp3d-origin="720 : 300 : 1"
+       id="perspective231" />
+    <linearGradient
+       id="linearGradient4091">
+      <stop
+         style="stop-color:#866408;stop-opacity:1;"
+         offset="0"
+         id="stop4093" />
+      <stop
+         id="stop4099"
+         offset="0.53333336"
+         style="stop-color:#715704;stop-opacity:1;" />
+      <stop
+         style="stop-color:#5d4b00;stop-opacity:1;"
+         offset="1"
+         id="stop4095" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4072">
+      <stop
+         style="stop-color:#e3b76b;stop-opacity:1;"
+         offset="0"
+         id="stop4074" />
+      <stop
+         id="stop4080"
+         offset="0.54666668"
+         style="stop-color:#dbb271;stop-opacity:1;" />
+      <stop
+         style="stop-color:#d4ad77;stop-opacity:1;"
+         offset="1"
+         id="stop4076" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4059">
+      <stop
+         style="stop-color:#89c141;stop-opacity:1;"
+         offset="0"
+         id="stop4061" />
+      <stop
+         style="stop-color:#496d23;stop-opacity:1;"
+         offset="1"
+         id="stop4063" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3208"
+       id="pattern4711"
+       patternTransform="translate(544.84527,193.01459)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="199"
+       height="199"
+       patternTransform="translate(139.20235,416.46756)"
+       id="pattern3208">
+      <image
+         sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../RocksSmall.png"
+         xlink:href="../../RocksSmall.png"
+         y="0"
+         x="0"
+         id="image3204"
+         height="199"
+         width="199" />
+    </pattern>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4793">
+      <g
+         id="g4795">
+        <rect
+           y="134.04585"
+           x="544.698"
+           height="900"
+           width="1440"
+           id="rect4797"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        <rect
+           y="193.09592"
+           x="544.77802"
+           height="814.93793"
+           width="1422.9883"
+           id="rect4799"
+           style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </mask>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4059"
+       id="radialGradient4164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30530131,0,0,0.23936813,1215.7614,140.65673)"
+       cx="984.41248"
+       cy="-136.90085"
+       fx="924.91315"
+       fy="-172.79243"
+       r="97.407365" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4072"
+       id="radialGradient4166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8791722,0,-32.874778)"
+       cx="968.742"
+       cy="-272.07959"
+       fx="968.742"
+       fy="-272.07959"
+       r="52.589731" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4091"
+       id="radialGradient4168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30530131,0,0,0.16166208,1215.7614,114.29198)"
+       cx="986.34021"
+       cy="-280.3302"
+       fx="1020.6517"
+       fy="-267.21637"
+       r="59.094894" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4208">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4210"
+         width="1230.9491"
+         height="643.12195"
+         x="736.79498"
+         y="255.8269" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4214">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect4216"
+         width="15"
+         height="643.1142"
+         x="721.79498"
+         y="255.82684" />
+    </mask>
+    <inkscape:perspective
+       id="perspective3044"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4622222"
+     inkscape:cx="145.90315"
+     inkscape:cy="576.33678"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Rocks and Logo"
+     style="display:inline"
+     transform="translate(-544.698,-134.04585)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#pattern4711);fill-opacity:1;stroke:none;display:inline"
+       id="rect5302"
+       width="1422.9883"
+       height="814.93793"
+       x="544.77765"
+       y="193.09602" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../OpenDungeons-LogoNewC.png"
+       xlink:href="../OpenDungeons-LogoNewC.png"
+       width="162.30151"
+       height="102.92885"
+       id="image3032"
+       x="551.47479"
+       y="218.18826"
+       style="display:inline" />
+    <rect
+       style="fill:url(#pattern3208);stroke:none"
+       width="199"
+       height="199"
+       x="139.20235"
+       y="416.46756"
+       id="rect3211" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Menu"
+     style="display:inline"
+     transform="translate(-544.698,-134.04585)">
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/Menu.png"
+       xlink:href="../../Light/Menu.png"
+       style="display:inline"
+       width="185.91406"
+       height="438.15924"
+       id="image3172"
+       x="539.8136"
+       y="336.00171" />
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#ac9393;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="587.21979"
+       y="384.05978"
+       id="text3887-0"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="587.21979"
+         y="384.05978"
+         style="font-size:11.32224369px;fill:#ac9393;fill-opacity:1"
+         id="tspan3891-7">Main Page</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#ffcc00;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="586.98486"
+       y="401.09863"
+       id="text3897-7"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="586.98486"
+         y="401.09863"
+         style="font-size:11.32224369px;fill:#ffcc00;fill-opacity:1"
+         id="tspan3899-0">Download</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#ff8181;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="586.3255"
+       y="419.23318"
+       id="text3901-3"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="586.3255"
+         y="419.23318"
+         style="font-size:11.32224369000000100px;fill:#d40000;fill-opacity:1"
+         id="tspan3903-1">Screenshots</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#ff9955;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="586.3255"
+       y="436.70831"
+       id="text3905-1"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="586.3255"
+         y="436.70831"
+         style="font-size:11.32224369000000100px;fill:#ff7f2a;fill-opacity:1"
+         id="tspan3907-3">Forum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="586.65527"
+       y="455.1727"
+       id="text3909-0"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="586.65527"
+         y="455.1727"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan3911-0">Chat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="586.3255"
+       y="472.97748"
+       id="text3913-7"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="586.3255"
+         y="472.97748"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan3915-9">Project Page</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="588.54089"
+       y="520.45703"
+       id="text3917-0"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="588.54089"
+         y="520.45703"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan3919-5">Recent changes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="588.26465"
+       y="537.93213"
+       id="text3921-6"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="588.26465"
+         y="537.93213"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan3923-8">Random page</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="570.16925"
+       y="367.46732"
+       id="text3925-2"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="570.16925"
+         y="367.46732"
+         style="font-size:14.15280247px;fill:#000000;fill-opacity:1"
+         id="tspan3927-4">OpenDungeons</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path3929-3"
+       sodipodi:cx="-21.666296"
+       sodipodi:cy="289.10226"
+       sodipodi:rx="1.8637675"
+       sodipodi:ry="1.8637675"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,-29.057584)"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,-11.414774)"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       sodipodi:ry="1.8637675"
+       sodipodi:rx="1.8637675"
+       sodipodi:cy="289.10226"
+       sodipodi:cx="-21.666296"
+       id="path3933-5"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path3935-7"
+       sodipodi:cx="-21.666296"
+       sodipodi:cy="289.10226"
+       sodipodi:rx="1.8637675"
+       sodipodi:ry="1.8637675"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,7.2171925)"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,24.859984)"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       sodipodi:ry="1.8637675"
+       sodipodi:rx="1.8637675"
+       sodipodi:cy="289.10226"
+       sodipodi:cx="-21.666296"
+       id="path3937-6"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path3939-3"
+       sodipodi:cx="-21.666296"
+       sodipodi:cy="289.10226"
+       sodipodi:rx="1.8637675"
+       sodipodi:ry="1.8637675"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,42.832519)"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,60.805035)"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       sodipodi:ry="1.8637675"
+       sodipodi:rx="1.8637675"
+       sodipodi:cy="289.10226"
+       sodipodi:cx="-21.666296"
+       id="path3941-0"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path3943-6"
+       sodipodi:cx="-21.666296"
+       sodipodi:cy="289.10226"
+       sodipodi:rx="1.8637675"
+       sodipodi:ry="1.8637675"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,108.26515)"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,126.76019)"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       sodipodi:ry="1.8637675"
+       sodipodi:rx="1.8637675"
+       sodipodi:cy="289.10226"
+       sodipodi:cx="-21.666296"
+       id="path3945-1"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       id="text3951-4"
+       y="501.49286"
+       x="570.16925"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         id="tspan3953-2"
+         style="font-size:14.15280247px;fill:#000000;fill-opacity:1"
+         y="501.49286"
+         x="570.16925"
+         sodipodi:role="line">Wiki</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="567.05316"
+       y="567.11823"
+       id="text3955-3"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="567.05316"
+         y="567.11823"
+         style="font-size:14.15280247px;fill:#000000;fill-opacity:1"
+         id="tspan3957-3">Search</tspan></text>
+    <text
+       id="text2429-7"
+       y="658.68817"
+       x="588.54089"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         id="tspan2431-4"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         y="658.68817"
+         x="588.54089"
+         sodipodi:role="line">What links here</tspan></text>
+    <text
+       id="text2433-0"
+       y="676.16333"
+       x="588.26465"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         id="tspan2435-5"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         y="676.16333"
+         x="588.26465"
+         sodipodi:role="line">Related changes</tspan></text>
+    <path
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,246.49632)"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       sodipodi:ry="1.8637675"
+       sodipodi:rx="1.8637675"
+       sodipodi:cy="289.10226"
+       sodipodi:cx="-21.666296"
+       id="path2437-6"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path2439-5"
+       sodipodi:cx="-21.666296"
+       sodipodi:cy="289.10226"
+       sodipodi:rx="1.8637675"
+       sodipodi:ry="1.8637675"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,264.99135)"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="570.16925"
+       y="639.72406"
+       id="text2441-6"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="570.16925"
+         y="639.72406"
+         style="font-size:14.15280247px;fill:#000000;fill-opacity:1"
+         id="tspan2443-9">Toolbox</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="588.54089"
+       y="694.05371"
+       id="text2445-9"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="588.54089"
+         y="694.05371"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan2447-9">Upload file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="588.26465"
+       y="711.52893"
+       id="text2449-9"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="588.26465"
+         y="711.52893"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan2451-6">Special pages</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path2453-8"
+       sodipodi:cx="-21.666296"
+       sodipodi:cy="289.10226"
+       sodipodi:rx="1.8637675"
+       sodipodi:ry="1.8637675"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,281.86192)"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,300.35696)"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       sodipodi:ry="1.8637675"
+       sodipodi:rx="1.8637675"
+       sodipodi:cy="289.10226"
+       sodipodi:cx="-21.666296"
+       id="path2455-1"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       id="text2457-1"
+       y="729.91858"
+       x="588.54089"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         id="tspan2459-6"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         y="729.91858"
+         x="588.54089"
+         sodipodi:role="line">Printable version</tspan></text>
+    <text
+       id="text2461-9"
+       y="747.39362"
+       x="588.26465"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         id="tspan2463-5"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         y="747.39362"
+         x="588.26465"
+         sodipodi:role="line">Permanent link</tspan></text>
+    <path
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,317.72662)"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       sodipodi:ry="1.8637675"
+       sodipodi:rx="1.8637675"
+       sodipodi:cy="289.10226"
+       sodipodi:cx="-21.666296"
+       id="path2465-1"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path2467-5"
+       sodipodi:cx="-21.666296"
+       sodipodi:cy="289.10226"
+       sodipodi:rx="1.8637675"
+       sodipodi:ry="1.8637675"
+       d="m -19.802529,289.10226 a 1.8637675,1.8637675 0 1 1 -3.727535,0 1.8637675,1.8637675 0 1 1 3.727535,0 z"
+       transform="matrix(1.4152804,0,0,1.4152804,607.9921,336.22167)"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#e7e7e7;fill-opacity:1;stroke:#000000;stroke-width:1.41528046;stroke-opacity:1;display:inline"
+       id="rect2469-2"
+       width="131.961"
+       height="17.719147"
+       x="570.15607"
+       y="575.80597"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#e7e7e7;fill-opacity:1;stroke:#000000;stroke-width:1.41528046;stroke-opacity:1;display:inline"
+       id="rect3241-8"
+       width="36.83717"
+       height="18.18544"
+       x="585.07745"
+       y="597.25549"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#e7e7e7;fill-opacity:1;stroke:#000000;stroke-width:1.41528046;stroke-opacity:1;display:inline"
+       id="rect3245-3"
+       width="56.421494"
+       height="17.719147"
+       x="630.77417"
+       y="597.25549"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;opacity:0.78448277;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="594.97479"
+       y="610.375"
+       id="text3247-5"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="594.97479"
+         y="610.375"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan3249-0">Go</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.61120987px;font-style:normal;font-weight:normal;opacity:0.78448277;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="641.78558"
+       y="609.70105"
+       id="text3251-0"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="641.78558"
+         y="609.70105"
+         style="font-size:11.32224369px;fill:#000000;fill-opacity:1"
+         id="tspan3253-6">Search</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Page"
+     style="display:inline"
+     transform="translate(-544.698,-134.04585)"
+     sodipodi:insensitive="true">
+    <image
+       y="945.86188"
+       x="541.698"
+       id="image3046-1"
+       height="41"
+       width="2048"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/Footer.png" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../PergamentLight.png"
+       xlink:href="../../PergamentLight.png"
+       mask="url(#mask4208)"
+       width="2048"
+       height="2048"
+       id="image3004"
+       x="736.7951"
+       y="255.8269"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/LeftBorder.png"
+       xlink:href="../../Light/LeftBorder.png"
+       mask="url(#mask4214)"
+       width="15"
+       height="2048"
+       id="image3046"
+       x="721.7951"
+       y="255.8269"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/TopBorder.png"
+       xlink:href="../../Light/TopBorder.png"
+       width="2048"
+       height="15"
+       id="image3060"
+       x="736.7951"
+       y="240.8269"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/TopLeftCorner.png"
+       xlink:href="../../Light/TopLeftCorner.png"
+       width="15"
+       height="15"
+       id="image3074"
+       x="721.7951"
+       y="240.8269"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/PageTab.png"
+       xlink:href="../../Light/PageTab.png"
+       width="78"
+       height="30"
+       id="image3088"
+       x="736.07867"
+       y="225.02321"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/DiscussionTab.png"
+       xlink:href="../../Light/DiscussionTab.png"
+       width="101"
+       height="30"
+       id="image3102"
+       x="813.03394"
+       y="225.02293"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/EditTab.png"
+       xlink:href="../../Light/EditTab.png"
+       width="54"
+       height="28"
+       id="image3116"
+       x="934.90717"
+       y="227.02293"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/HistoryTab.png"
+       xlink:href="../../Light/HistoryTab.png"
+       width="78"
+       height="29"
+       id="image3130"
+       x="986.17944"
+       y="226.02293"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/MoveTab.png"
+       xlink:href="../../Light/MoveTab.png"
+       width="64"
+       height="28"
+       id="image3144"
+       x="1061.7119"
+       y="227.02293"
+       style="display:inline" />
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../../Light/WatchTab.png"
+       xlink:href="../../Light/WatchTab.png"
+       width="68"
+       height="28"
+       id="image3158"
+       x="1159.7356"
+       y="227.02293"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:59.34006119px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="735.53003"
+       y="287.62671"
+       id="text3255-2"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="735.53003"
+         y="287.62671"
+         style="font-size:29.67003059px;fill:#000000;fill-opacity:1"
+         id="tspan3257-2">Main Page</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 736.57515,295.02564 1237.81165,0"
+       id="path3259-9"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="matrix(1.6138432,0,0,1.6138432,539.72144,-22.224378)"
+       xml:space="preserve"
+       id="flowRoot2490-3"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion2492-7"><rect
+           id="rect2494-5"
+           width="756.29572"
+           height="429.48096"
+           x="122.41332"
+           y="202.93394"
+           style="font-size:8px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2496-9">New forum for OpenDungeons</flowPara><flowPara
+         id="flowPara2498-9" /><flowPara
+         id="flowPara2500-3">Chatroom</flowPara><flowPara
+         id="flowPara2502-3" /><flowPara
+         id="flowPara2504-4">Welcome to the OpenDungeons wiki. This is a wiki for the development of the game OpenDungeons. Please feel free to contribute to this wiki and help us create the best game we can.</flowPara><flowPara
+         id="flowPara2506-1" /><flowPara
+         id="flowPara2508-8">Some pages of interest:</flowPara><flowPara
+         id="flowPara2510-4" /><flowPara
+         id="flowPara2512-1">    * Overview - Category:Image files - Category:Blend files</flowPara><flowPara
+         id="flowPara2514-7">    * Download </flowPara><flowPara
+         id="flowPara2518-1" /><flowPara
+         id="flowPara2520-8">    * Roadmap</flowPara><flowPara
+         id="flowPara2522-1">    * Progress reports - Category:Pages containing progress reports</flowPara><flowPara
+         id="flowPara2524-6">    * Suggestions - Category:Pages containing suggestions - Category:Pages containing notes </flowPara><flowPara
+         id="flowPara2528-9" /><flowPara
+         id="flowPara2530-0">    * Backstory - Category:Concept art</flowPara><flowPara
+         id="flowPara2532-6">    * Factions</flowPara><flowPara
+         id="flowPara2534-7">          o Heroes</flowPara><flowPara
+         id="flowPara2536-2">          o Villains</flowPara><flowPara
+         id="flowPara2538-9">          o Undead army</flowPara><flowPara
+         id="flowPara2540-7">          o Constructs</flowPara><flowPara
+         id="flowPara2542-8">          o Corpars </flowPara><flowPara
+         id="flowPara2546-0" /><flowPara
+         id="flowPara2548-0">    * Creature statistics</flowPara><flowPara
+         id="flowPara2550-9">    * Creatures - Category:Creatures - Category:Creature image files - Category:Creature blend files</flowPara><flowPara
+         id="flowPara2552-5">          o Workers</flowPara><flowPara
+         id="flowPara2554-7">          o Scout</flowPara><flowPara
+         id="flowPara2556-4">          o Weak fighter</flowPara><flowPara
+         id="flowPara2558-7">          o Weak spellcaster</flowPara><flowPara
+         id="flowPara2560-8">          o Weak builder</flowPara><flowPara
+         id="flowPara2562-9">          o Strong fighter</flowPara><flowPara
+         id="flowPara2564-0">          o Strong spellcaster</flowPara><flowPara
+         id="flowPara2566-2">          o Strong builder</flowPara><flowPara
+         id="flowPara2568-1">          o Guard</flowPara><flowPara
+         id="flowPara2570-1">          o Special creature</flowPara><flowPara
+         id="flowPara2572-9">          o Summons </flowPara><flowPara
+         id="flowPara2574-4" /><flowPara
+         id="flowPara2576-8" /><flowPara
+         id="flowPara2578-4" /><flowPara
+         id="flowPara2580-7" /><flowPara
+         id="flowPara2582-7" /><flowPara
+         id="flowPara2584-7" /><flowPara
+         id="flowPara2586-4" /><flowPara
+         id="flowPara2588-8" /><flowPara
+         id="flowPara2590-8" /><flowPara
+         id="flowPara2592-4" /><flowPara
+         id="flowPara2594-4" /><flowPara
+         id="flowPara2596-5" /><flowPara
+         id="flowPara2598-8" /><flowPara
+         id="flowPara2600-3" /><flowPara
+         id="flowPara2602-3" /><flowPara
+         id="flowPara2604-7" /><flowPara
+         id="flowPara2606-3" /><flowPara
+         id="flowPara2608-5" /><flowPara
+         id="flowPara2610-9" /><flowPara
+         id="flowPara2612-2" /><flowPara
+         id="flowPara2614-2" /><flowPara
+         id="flowPara2616-9" /><flowPara
+         id="flowPara2618-8" /><flowPara
+         id="flowPara2620-9" /><flowPara
+         id="flowPara2622-9" /><flowPara
+         id="flowPara2624-7" /><flowPara
+         id="flowPara2626-2" /><flowPara
+         id="flowPara2628-4" /><flowPara
+         id="flowPara2630-0" /><flowPara
+         id="flowPara2632-3" /><flowPara
+         id="flowPara2634-3" /><flowPara
+         id="flowPara2636-4" /><flowPara
+         id="flowPara2638-1" /><flowPara
+         id="flowPara2640-9" /><flowPara
+         id="flowPara2642-2" /><flowPara
+         id="flowPara2644-0" /><flowPara
+         id="flowPara2646-8" /><flowPara
+         id="flowPara2648-6" /></flowRoot>    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       id="text3208"
+       y="246.53369"
+       x="826.72388"
+       style="font-size:57.16241074px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3210"
+         style="font-size:14.29060268px;fill:#000000;fill-opacity:1"
+         y="246.53369"
+         x="826.72388"
+         sodipodi:role="line">Discussion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:57.16241074px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="757.79211"
+       y="246.53369"
+       id="text3194"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="757.79211"
+         y="246.53369"
+         style="font-size:14.29060268px;fill:#000000;fill-opacity:1"
+         id="tspan3196">Page</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:57.16241074px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="947.66315"
+       y="246.53369"
+       id="text3186"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="947.66315"
+         y="246.53369"
+         style="font-size:14.29060268px;fill:#000000;fill-opacity:1"
+         id="tspan3188">Edit</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       id="text3188"
+       y="246.53369"
+       x="1002.9569"
+       style="font-size:57.16241074px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3190"
+         style="font-size:14.29060268px;fill:#000000;fill-opacity:1"
+         y="246.53369"
+         x="1002.9569"
+         sodipodi:role="line">History</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:57.16241074px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="1074.7241"
+       y="246.53369"
+       id="text3192"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="1074.7241"
+         y="246.53369"
+         style="font-size:14.29060268px;fill:#000000;fill-opacity:1"
+         id="tspan3194">Move</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       id="text3196"
+       y="246.53369"
+       x="1171.9688"
+       style="font-size:57.16241074px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3198"
+         style="font-size:14.29060268px;fill:#000000;fill-opacity:1"
+         y="246.53369"
+         x="1171.9688"
+         sodipodi:role="line">Watch</tspan></text>
+    <image
+       y="190.12585"
+       x="1470.3806"
+       id="image3132"
+       height="29"
+       width="101"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/MyUsername.png" />
+    <image
+       y="190.12585"
+       x="1576.1624"
+       id="image3146"
+       height="29"
+       width="54"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/MyTalk.png" />
+    <image
+       y="188.12585"
+       x="1632.6815"
+       id="image3160"
+       height="31"
+       width="95"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/MyPreferences.png" />
+    <image
+       y="191.12608"
+       x="1916.5229"
+       id="image3202"
+       height="28"
+       width="49"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/MyLogOut.png" />
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       id="text3196-1"
+       y="204.862"
+       x="1497.4835"
+       style="font-size:43.43318939px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3198-7"
+         style="font-size:10.85829735px;fill:#000000;fill-opacity:1"
+         y="204.862"
+         x="1497.4835"
+         sodipodi:role="line">Svenskmand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:43.43318939px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="1584.3605"
+       y="204.862"
+       id="text3231"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="1584.3605"
+         y="204.862"
+         style="font-size:10.85829735px;fill:#000000;fill-opacity:1"
+         id="tspan3233">My Talk</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       id="text3235"
+       y="204.862"
+       x="1643.507"
+       style="font-size:43.43318939px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3237"
+         style="font-size:10.85829735px;fill:#000000;fill-opacity:1"
+         y="204.862"
+         x="1643.507"
+         sodipodi:role="line">My Preferences</tspan></text>
+    <image
+       y="191.12585"
+       x="1732.0599"
+       id="image3253"
+       height="28"
+       width="79"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/MyWatchlist.png" />
+    <image
+       y="189.12585"
+       x="1813.635"
+       id="image3267"
+       height="30"
+       width="100"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/MyContributions.png" />
+    <text
+       xml:space="preserve"
+       style="font-size:43.43318939px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="1740.2671"
+       y="204.862"
+       id="text3239"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="1740.2671"
+         y="204.862"
+         style="font-size:10.85829735px;fill:#000000;fill-opacity:1"
+         id="tspan3241">My Watchlist</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       id="text3271"
+       y="204.862"
+       x="1822.2394"
+       style="font-size:43.43318939px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3273"
+         style="font-size:10.85829735px;fill:#000000;fill-opacity:1"
+         y="204.862"
+         x="1822.2394"
+         sodipodi:role="line">My Contributions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:43.43318939px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="1923.3716"
+       y="204.862"
+       id="text3275"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="1923.3716"
+         y="204.862"
+         style="font-size:10.85829735px;fill:#000000;fill-opacity:1"
+         id="tspan3277">Logout</tspan></text>
+    <g
+       id="g4129"
+       transform="matrix(0.16747733,0,0,0.16747733,1233.6256,185.91087)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path3281"
+         d="m 1516.3021,84.749293 c -16.2489,0 -29.4378,10.268313 -29.5571,22.964387 l 0,6.12849 59.1142,0 0,-6.12849 c -0.1204,-12.696074 -13.3082,-22.964387 -29.5571,-22.964387 z"
+         style="fill:url(#radialGradient4164);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(0.30530131,0,0,0.30530131,1221.2287,164.32106)"
+         d="m 1020.7317,-272.07959 a 51.989731,45.635429 0 1 1 -103.97943,0 51.989731,45.635429 0 1 1 103.97943,0 z"
+         sodipodi:ry="45.635429"
+         sodipodi:rx="51.989731"
+         sodipodi:cy="-272.07959"
+         sodipodi:cx="968.742"
+         id="path3283"
+         style="fill:url(#radialGradient4166);fill-opacity:1;stroke:#000000;stroke-width:3.27545261;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csssscscssssc"
+         id="path4082"
+         d="m 1516.9319,65.04782 c -4.9134,0 -8.9387,1.547076 -10.4791,2.988759 -0.9505,0.889438 -3.0326,3.442562 -3.9082,4.519748 -3.6635,4.50459 -4.4471,9.702442 -2.5664,11.000373 1.8802,1.297931 6.0801,-1.518183 9.3781,-6.296871 1.0731,-1.554683 1.9218,-3.123593 2.5095,-4.579504 1.5082,0.305892 3.2341,0.477169 5.0661,0.477169 1.8469,0 3.5771,-0.175655 5.0946,-0.486471 0.5877,1.45799 1.4249,3.031606 2.4996,4.589024 3.2981,4.778689 7.4979,7.594803 9.3787,6.296872 1.8802,-1.297931 0.6605,-6.17364 -2.5664,-11.000373 -0.9949,-1.487868 -3.2412,-3.703801 -4.1408,-4.617699 -1.4879,-1.510905 -5.4163,-2.890808 -10.2657,-2.890808 z"
+         style="fill:url(#radialGradient4168);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <image
+       style="display:inline"
+       y="888.92084"
+       x="735.86096"
+       id="image3060-1"
+       height="25"
+       width="2048"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/BottomBorder.png" />
+    <image
+       style="display:inline"
+       y="888.92065"
+       x="721.79498"
+       id="image3074-7"
+       height="25"
+       width="15"
+       xlink:href="file:///C:/Documents%20and%20Settings/Administrator/Desktop/OpenDungeons/WikiSkins/Light/BottomLeftCorner.png" />
+    <flowRoot
+       transform="matrix(1.6138432,0,0,1.6138432,423.51455,631.4161)"
+       xml:space="preserve"
+       id="flowRoot2490-3-1"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\MockDark.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion2492-7-7"><rect
+           id="rect2494-5-4"
+           width="829.11804"
+           height="14.046706"
+           x="122.41332"
+           y="202.93394"
+           style="font-size:8px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6084">This page was last modified on 6 April 2010, at 23:45.                             This page has been accessed 13,084 times.                             Privacy policy                              About                                OpenDungeonsDisclaimers</flowPara><flowPara
+         id="flowPara6086" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Shot"
+     style="display:inline"
+     transform="translate(-544.698,-134.04585)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../Shot.png"
+       xlink:href="../Shot.png"
+       inkscape:export-filename="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Dark\Shot.png"
+       mask="url(#mask4793)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       width="1440"
+       height="900"
+       id="image3018"
+       x="544.698"
+       y="134.04585"
+       style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="opacity:0.3;display:none"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Documents and Settings\Administrator\Desktop\OpenDungeons\WikiSkins\MockUps\Light\../Shot.png"
+       xlink:href="../Shot.png"
+       transform="translate(-544.698,-134.04585)"
+       style="display:inline"
+       y="134.04585"
+       x="544.698"
+       id="image3049"
+       height="900"
+       width="1440"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       mask="none" />
+  </g>
+</svg>
