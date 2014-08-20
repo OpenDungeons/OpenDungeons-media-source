@@ -38,22 +38,6 @@ AlignmentSystem/alignmentsystemexp/SvenskmandAppearance.java
 AlignmentSystem/alignmentsystemexp/SvenskmandRoomTypes.java
 AlignmentSystem/AlignmentSystem.ods
 Models
-Models/Mechanical miner
-Models/Mechanical miner/Mechanical miner.blend
-Models/Mechanical miner/Mechanical miner.png
-Models/Rock 1
-Models/Rock 1/Rock 1.blend
-Models/Wooden door
-Models/Wooden door/Wooden door.blend
-Models/Wooden door/Wooden door.png
-Models/Rock 2
-Models/Rock 2/Rock 2.blend
-Models/Lizardman
-Models/Lizardman/ButterflyAxe.png
-Models/Lizardman/Lizardman.blend
-Models/Lizardman/Lizardman_skin.png
-Models/Skeleton
-Models/Skeleton/Skeleton.blend
 Models/Dwarf3
 Models/Dwarf3/Dwarf_spec.png
 Models/Dwarf3/Dwarf_col.png
@@ -66,8 +50,6 @@ Models/Dwarf3/Dwarf3.blend
 Models/Spider
 Models/Spider/Spider.tga
 Models/Spider/Spider.blend
-Models/Ghost Knight
-Models/Ghost Knight/Ghost Knight.blend
 Models/Traps
 Models/Traps/Spike trap
 Models/Traps/Spike trap/Spike-trapTexture.jpg
@@ -81,15 +63,11 @@ Models/Bridge/Bridge.blend
 Models/Bridge/Claimedwall3B_spec.png
 Models/Bridge/Claimedwall3B_nor.png
 Models/Bridge/Claimedwall3B.png
-Models/Troll
-Models/Troll/Troll2C.blend
 Models/Cavehornet
 Models/Cavehornet/Cavehornet_nor.png
 Models/Cavehornet/Cavehornet.blend
 Models/Cavehornet/Cavehornet_spec.png
 Models/Cavehornet/Cavehornet_col.png
-Models/GoldBag
-Models/GoldBag/GoldBag.blend
 Models/Tentacle
 Models/Tentacle/Tentacle.blend
 Models/Tentacle/Tentakel_diff_green.png
@@ -120,10 +98,6 @@ Models/Dragon/DragonE.blend
 Models/Goblin
 Models/Goblin/Goblin.tga
 Models/Goblin/Goblin.blend
-Models/Stone door
-Models/Stone door/Stone door.blend
-Models/Bookshelf
-Models/Bookshelf/Bookshelf.blend
 Models/Construct_Worker
 Models/Construct_Worker/Construct_Worker.blend
 Models/Construct_Worker/Halo_1.png
@@ -364,10 +338,6 @@ Models/OD_Tilesets/Gold_nor6.png
 Models/OD_Tilesets/Rock_col.png
 Models/Pit_demon
 Models/Pit_demon/Pit_Demon.blend
-Models/Vault door
-Models/Vault door/Vault door.blend
-Models/Trees
-Models/Trees/Tree1.blend
 Models/Textures
 Models/Textures/Textures.blend
 Models/Orc
@@ -380,14 +350,8 @@ Models/Orc/Orc.blend
 Models/Knight
 Models/Knight/Knight.blend
 Models/Adventurer-Militia_0
-Models/Adventurer-Militia_0/Militia-Texture.jpg
 Models/Adventurer-Militia_0/Militia-Adventurer-RIGGED.blend
-Models/Adventurer-Militia_0/Militia-Texture.psd
 Models/Adventurer-Militia_0/Militia-TextureE.png
-Models/Zombie
-Models/Zombie/Zombie.blend
-Models/Candle
-Models/Candle/Candle.blend
 Models/Bed
 Models/Bed/Bed.blend
 Models/Wyvern
@@ -413,13 +377,9 @@ Models/Chicken
 Models/Chicken/Chicken.blend
 Models/DungeonTemple
 Models/DungeonTemple/DungeonTemple.blend
-Models/Dog
-Models/Dog/Dog.blend
 Models/Kobold
 Models/Kobold/Kobold.blend
 Models/Kobold/Kobold.blend1
-Models/Hand
-Models/Hand/Hand.blend
 Models/ForgeV2
 Models/ForgeV2/L1_diffuse.png
 Models/ForgeV2/L2_diffuse.png
@@ -428,11 +388,6 @@ Models/ForgeV2/L1_normal.png
 Models/ForgeV2/forge2.blend
 Models/ForgeV2/L2_normal.png
 Models/ForgeV2/L3_normal.png
-Models/GoldChest
-Models/GoldChest/GoldChest.blend
-Models/GoldChest/GoldChest.png
-Models/Weapons
-Models/Weapons/Weapons.blend
 Models/Layout
 Models/Layout/Layout.blend
 Models/Layout/Wall3.png
@@ -710,14 +665,6 @@ Logo
 Logo/OpenDungeons-Logo.svg
 Logo/OpenDungeons-BannerLogo.svg
 ConceptArt
-ConceptArt/Ghoul2.xcf
-ConceptArt/ConstructScout.xcf
-ConceptArt/ConstructSeahorse.png
-ConceptArt/WorldMap.svg
-ConceptArt/ConsAdvWorker.xcf
-ConceptArt/ConstructIdeas.xcf
-ConceptArt/DungeonHearth.xcf
-ConceptArt/Ghoul.xcf
 ConceptArt/MoodPictures
 ConceptArt/MoodPictures/Notice.txt
 ConceptArt/MoodPictures/Undead
@@ -1019,7 +966,6 @@ Full-size textures/Lava_anim_2.png
 Full-size textures/Lava_anim_3.png
 Full-size textures/Lava_anim_4.png
 Full-size textures/Black.png
-Full-size textures/leatherdummy2.png
 Full-size textures/Pit_Demon_nor.tga
 Full-size textures/mini_diffus.tga
 Full-size textures/shirtblack.png
